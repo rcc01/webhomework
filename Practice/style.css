@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+
+
+
+.container{
+  height: 600px;
+  position: relative;
+  display: flex;
+  background-color: #E0EBB8;
+
+}
+
+
+.navbar{
+
+
+
+}
+
+.logo{
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 10%;
+  margin-top: 3%;
+  border-radius: 50%;
+}
+
+
+.links{
+  position: absolute;
+  right: 10%;
+  margin-top: 5%;
+
+}
+
+
+a{
+  text-decoration: none;
+  text-align: right;
+  padding: 20px;
+  font-size: 18px;
+  color: #4AB19A;
+
+
+}
+
+.img1{
+  height: 70px;
+  width: 130px;
+  position: absolute;
+  right: 20%;
+  top:20%;
+
+}
+
+
+.img2{
+  height: 70px;
+  width: 130px;
+  position: absolute;
+  left: 40%;
+  top: 400px;
+
+}
+.textarea{
+  position: absolute;
+  text-align: center;
+}
